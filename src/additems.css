@@ -1,0 +1,10 @@
+.additems form{
+    height:90vh;
+    width: 70vh;
+    /* background-color: red; */
+}
+.additems form img{
+    height: 40vh;
+    width: 40vh;
+    border-radius: 0;
+}

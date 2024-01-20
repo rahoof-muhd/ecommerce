@@ -1,0 +1,17 @@
+.navbar{
+    display: flex;
+    flex-direction: row;
+    height: 2vh;
+    width: 100%;
+    gap: 2rem;
+    justify-content: end;
+    /* background-color: brown; */
+}
+
+.navbar a{
+    text-decoration: none;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(44, 150, 200);
+    /* background-color: red; */
+}
